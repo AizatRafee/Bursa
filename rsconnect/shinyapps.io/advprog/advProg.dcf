@@ -1,0 +1,13 @@
+name: advProg
+title: advProg
+username:
+account: advprog
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 239929
+bundleId: 1141020
+url: https://aizatrafee.shinyapps.io/advProg/
+when: 1513611433.22857
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
